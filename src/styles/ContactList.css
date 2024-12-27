@@ -1,0 +1,40 @@
+.contact-item {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center; 
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .contact-photo {
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover; 
+  }
+  
+  .contact-info {
+    margin-left: 15px; 
+  }
+  
+  .contact-info h4 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .contact-info p {
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .contact-message-time {
+    font-size: 0.8rem;
+    color: gray;
+  }
+  
+  .contact-message-tick{
+    color: #34b7f1;
+    font-size: 0.7rem;
+  }

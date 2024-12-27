@@ -1,0 +1,73 @@
+.chat-list-container {
+  width: 100%;
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.empty-window {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(10px);
+}
+
+.messages-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  padding-right: 5px;
+}
+
+
+.message {
+  display: inline-block; 
+  max-width: 70%; 
+  min-width: 8%;
+  padding: 12px;
+  margin: 5px;
+  border-radius: 15px;
+  position: relative;
+  word-wrap: break-word;
+}
+
+.sent {
+  align-self: flex-end;
+  background-color: #dcf8c6;
+  color: #000;
+}
+
+.received {
+  align-self: flex-start;
+  background-color: #ece5dd;
+  color: #000;
+}
+
+.message-text {
+  font-size: 14px;
+  margin-bottom: 20px; 
+}
+
+.message-info {
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  display: flex;
+  gap: 5px; 
+  font-size: 12px;
+  color: #888;
+}
+
+.message-tick {
+  color: #34b7f1;
+}
+

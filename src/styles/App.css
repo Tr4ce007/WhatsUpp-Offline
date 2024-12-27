@@ -1,0 +1,66 @@
+.app {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.contact-list {
+  width: 30%;
+  background: #f1f1f1;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contact-list .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.contact-list .add-contact-btn {
+  background: #25d366;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.contact-list .add-contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.contact-list .add-contact-form input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.contact-list .add-contact-form button {
+  padding: 5px;
+  background: #25d366;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.contact-list .contact-item {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+  background: white;
+}
+
+.contact-list .contact-item:hover {
+  background: #f0f0f0;
+}
+
+

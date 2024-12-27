@@ -1,0 +1,2 @@
+export const IMAGE_PLACEHOLDER = 'https://cdn-icons-png.flaticon.com/512/149/149071.png';
+export const BACKGROUND_PLACEHOLDER = 'https://i.pinimg.com/736x/8c/98/99/8c98994518b575bfd8c949e91d20548b.jpg';
