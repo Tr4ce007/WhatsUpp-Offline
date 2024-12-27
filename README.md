@@ -2,6 +2,9 @@
 
 This is an offline version of popular messaging application.
 
+## Check it out here
+Deployed @ - 
+
 ## Steps for Installation
 
 ### Step 1: Clone the repository
@@ -9,7 +12,7 @@ This is an offline version of popular messaging application.
 First, clone the project in your local system:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Tr4ce007/WhatsUpp-Offline.git
 ```
 
 ### Step 2: Go to the cloned directory
@@ -17,7 +20,7 @@ git clone <repository_url>
 Go to the directory where you cloned : 
 
 ```bash
-cd <directory>
+cd WhatsUpp-Offline
 ```
 
 ### Step 3: Install Dependencies
@@ -36,7 +39,7 @@ Now, start the project to view the website:
 npm run start
 ```
 
-### Step 5: Clone the repository
+### Step 5: Browse the website
 
 Go to the url of the website:
 
