@@ -3,7 +3,8 @@
 This is an offline version of popular messaging application.
 
 ## Check it out here
-Deployed @ - 
+Deployed @ - [Whatsupp](https://tr4ce007.github.io/WhatsUpp-Offline/)
+
 
 ## Steps for Installation
 
