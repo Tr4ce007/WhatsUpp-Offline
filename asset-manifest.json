@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WhatsUpp-Offline/static/css/main.58223c94.css",
+    "main.js": "/WhatsUpp-Offline/static/js/main.88c18bd5.js",
+    "index.html": "/WhatsUpp-Offline/index.html",
+    "main.58223c94.css.map": "/WhatsUpp-Offline/static/css/main.58223c94.css.map",
+    "main.88c18bd5.js.map": "/WhatsUpp-Offline/static/js/main.88c18bd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58223c94.css",
+    "static/js/main.88c18bd5.js"
+  ]
+}
